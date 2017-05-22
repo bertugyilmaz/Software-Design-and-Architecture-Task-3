@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Decorator
 {
     public abstract class ModulerWindow
-    {
+    {       
         public abstract string Build();
     }
 }

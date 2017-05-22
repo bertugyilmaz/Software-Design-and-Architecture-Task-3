@@ -6,18 +6,17 @@ using System.Threading.Tasks;
 
 namespace Decorator
 {
-    public class WindowHead : ModulerWindow
+    public class Frame : ModulerWindow
     {
-
         ModulerWindow mWindow;
-        public WindowHead(ModulerWindow head)
+        public Frame(ModulerWindow addedframe)
         {
-            mWindow = head;
+            mWindow = addedframe;
         }
-
         public override string Build()
         {
-            return "Başlık Oluşturuldu";
+            return "Çerçeve oluşturuldu";
+
         }
     }
 }
