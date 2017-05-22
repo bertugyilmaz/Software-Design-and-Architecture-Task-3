@@ -10,7 +10,7 @@ namespace Decorator
     {
         public override string Build()
         {
-            return "Oluşturuldu";
+            return "Pencere Oluşturuldu";
         }
     }
 }
