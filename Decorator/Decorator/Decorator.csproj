@@ -58,6 +58,7 @@
     <Compile Include="ModulerWindow.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VerticalScrollBar.cs" />
     <Compile Include="Window.cs" />
     <Compile Include="WindowHead.cs" />
     <Compile Include="WindowShadow.cs" />
