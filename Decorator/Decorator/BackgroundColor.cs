@@ -15,7 +15,7 @@ namespace Decorator
         }
         public override string Build()
         {
-            throw new NotImplementedException();
+            return "Arkaplan rengi eklendi";
         }
     }
 }

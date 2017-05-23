@@ -16,7 +16,7 @@ namespace Decorator
 
         public override string Build()
         {
-            return "Changed Background Image";
+            return "Arkaplan resmi eklendi";
         }
     }
 }
